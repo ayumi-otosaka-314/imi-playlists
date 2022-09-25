@@ -1,4 +1,9 @@
 # Imi Playlists
+
+<span style="color:red">This repository has been archived, as similar project is being implemented by other fans</span>
+
+---
+
 这是一个**非官方的**、整理[伊深Imi](https://space.bilibili.com/690608694)小姐唱过的歌的演示。  
 _如果伊深Imi小姐本人以及粉丝们认为这样整理可行的话，这个Repo的所有权可以被转移给任何官方账号。_
 
