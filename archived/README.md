@@ -1,6 +1,6 @@
 # Imi Playlists
 
-<span style="color:red">This repository has been archived, as similar project is being implemented by other fans</span>
+<span style="color:red">This repository has beenmaintain archived, as it might be hard for other fans without git knowledges to  and contribute. </span>
 
 ---
 
